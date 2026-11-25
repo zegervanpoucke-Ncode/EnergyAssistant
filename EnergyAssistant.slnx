@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EnergyAssistant.Api/EnergyAssistant.Api.csproj" />
+  <Project Path="EnergyAssistant.Tests/EnergyAssistant.Tests.csproj" />
+</Solution>

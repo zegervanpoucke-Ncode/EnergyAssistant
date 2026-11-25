@@ -1,0 +1,11 @@
+@EnergyAssistant.Api_HostAddress = http://localhost:5250
+
+GET {{EnergyAssistant.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{EnergyAssistant.Api_HostAddress}}/api/homewizard/measurement
+Accept: application/json
+
+###
